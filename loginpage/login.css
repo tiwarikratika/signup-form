@@ -1,6 +1,6 @@
 
 body {
-	background: -webkit-linear-gradient(to right, #240b36, #c31432); 
+	background: -webkit-linear-gradient(to right, #240b36, #7472ee); 
 background: linear-gradient(to right, #240b36, #c31432); 
 
 	display: flex;
@@ -97,7 +97,7 @@ form {
 	margin-bottom: 10px;
 	background: #636363;  
 background: -webkit-linear-gradient(to right, #a2ab58, #636363);  
-background: linear-gradient(to right, #a2ab58, #636363); 
+background: linear-gradient(to right, #a2ab58, #c27c7c); 
   
 
 	display: flex;
@@ -183,7 +183,7 @@ input {
 .cover {
 background: #c31432;  
 background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, #240b36, #758acc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
  
 	position: relative;
